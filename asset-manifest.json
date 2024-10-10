@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Sandeep-Portfolio/static/css/main.7439349d.css",
+    "main.js": "/Sandeep-Portfolio/static/js/main.2f39bc4c.js",
+    "static/js/787.5c0b2d12.chunk.js": "/Sandeep-Portfolio/static/js/787.5c0b2d12.chunk.js",
+    "static/media/ticket.png": "/Sandeep-Portfolio/static/media/ticket.c6b73d8bea67be609623.png",
+    "static/media/image.png": "/Sandeep-Portfolio/static/media/image.092b61b6535cd760c9fc.png",
+    "static/media/dubbing.png": "/Sandeep-Portfolio/static/media/dubbing.a412411b6969696f3c06.png",
+    "static/media/optical.png": "/Sandeep-Portfolio/static/media/optical.35ce5572625ede0bb62a.png",
+    "static/media/Sandeep_Resume.pdf": "/Sandeep-Portfolio/static/media/Sandeep_Resume.ddbdc484c20b128e61a9.pdf",
+    "static/media/news.png": "/Sandeep-Portfolio/static/media/news.cc3623cffdf636a5fa17.png",
+    "static/media/about.png": "/Sandeep-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sandph.jpeg": "/Sandeep-Portfolio/static/media/sandph.b5857802c200e1a6dfc0.jpeg",
+    "static/media/loan.png": "/Sandeep-Portfolio/static/media/loan.8ddb37ff4b99dfa11787.png",
+    "static/media/home-bg.jpg": "/Sandeep-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/suicide.png": "/Sandeep-Portfolio/static/media/suicide.a5adc3b4e74a29824ddc.png",
+    "static/media/pre.svg": "/Sandeep-Portfolio/static/media/pre.8d1a9ad1c400401aff87.svg",
+    "index.html": "/Sandeep-Portfolio/index.html",
+    "main.7439349d.css.map": "/Sandeep-Portfolio/static/css/main.7439349d.css.map",
+    "main.2f39bc4c.js.map": "/Sandeep-Portfolio/static/js/main.2f39bc4c.js.map",
+    "787.5c0b2d12.chunk.js.map": "/Sandeep-Portfolio/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7439349d.css",
+    "static/js/main.2f39bc4c.js"
+  ]
+}
