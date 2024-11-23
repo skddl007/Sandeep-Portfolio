@@ -41,7 +41,7 @@ function Home2() {
                 <b className="purple"> MongoDB. </b>
               </i>
               <br />
-              Currently, I am working on my Compti-lib project based on the idea of enhancing library and work-spaces management systems.
+              Currently, I am working on my PrepZone.ai project based on the idea of enhancing library and work-spaces management systems.
             </p>
           </Col>
         </Row>
